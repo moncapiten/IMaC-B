@@ -1,4 +1,8 @@
-This folder is the coronation of the "Informatica con Laboratorio" course of the Laurea Triennale in Fisica in Università di Pisa.
+<h1>IMaC-B</h1>
+
+<h5> <b>I</b>nteractive <b>M</b>arginalization <b>a</b> <b>C</b>onditioning - <b>B</b>ayesian </h5>
+
+This project is the coronation of the "Informatica con Laboratorio" course of the Laurea Triennale in Fisica in Università di Pisa.
 
 The 'make' command can be run in both windows( tested 10 and 11) and linux( tested Ubuntu 20.04 LTS) and it will create two binaries in the bin/ directory.
 

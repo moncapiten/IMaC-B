@@ -1,6 +1,6 @@
 <h1>IMaC-B</h1>
 
-<h5> <b>I</b>nteractive <b>M</b>arginalization <b>a</b> <b>C</b>onditioning - <b>B</b>ayesian </h5>
+<h5> **I**nteractive **M**arginalization **a**nd **C**onditioning - **B**ayesian </h5>
 
 This project is the coronation of the "Informatica con Laboratorio" course of the Laurea Triennale in Fisica in Università di Pisa.
 
